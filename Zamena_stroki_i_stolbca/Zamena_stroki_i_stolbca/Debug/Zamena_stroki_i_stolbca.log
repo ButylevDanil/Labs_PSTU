@@ -1,0 +1,3 @@
+﻿  Zamena_stroki_i_stolbca.cpp
+C:\Users\danil\source\repos\Zamena_stroki_i_stolbca\Zamena_stroki_i_stolbca\Zamena_stroki_i_stolbca.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Zamena_stroki_i_stolbca.vcxproj -> C:\Users\danil\source\repos\Zamena_stroki_i_stolbca\Debug\Zamena_stroki_i_stolbca.exe

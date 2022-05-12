@@ -1,0 +1,3 @@
+﻿  Z_v_dinam_massive.cpp
+D:\repos\Z_v_dinam_massive\Z_v_dinam_massive\Z_v_dinam_massive.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Z_v_dinam_massive.vcxproj -> D:\repos\Metod_haara\Debug\Z_v_dinam_massive.exe
