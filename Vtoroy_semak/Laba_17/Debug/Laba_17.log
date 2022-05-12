@@ -1,0 +1,4 @@
+﻿  Laba_17.cpp
+D:\repos\Metod_haara\Laba_17\Laba_17.cpp(9,9): warning C4101: h: неиспользованная локальная переменная
+D:\repos\Metod_haara\Laba_17\Laba_17.cpp(9,12): warning C4101: r: неиспользованная локальная переменная
+  Laba_17.vcxproj -> D:\repos\Metod_haara\Debug\Laba_17.exe

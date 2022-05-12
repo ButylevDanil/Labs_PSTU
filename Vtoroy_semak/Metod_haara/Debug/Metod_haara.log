@@ -1,0 +1,5 @@
+﻿  Metod_haara.cpp
+D:\repos\Metod_haara\Metod_haara\Metod_haara.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\repos\Metod_haara\Metod_haara\Metod_haara.cpp(41,15): warning C4101: z: неиспользованная локальная переменная
+D:\repos\Metod_haara\Metod_haara\Metod_haara.cpp(41,18): warning C4101: j: неиспользованная локальная переменная
+  Metod_haara.vcxproj -> D:\repos\Metod_haara\Debug\Metod_haara.exe
